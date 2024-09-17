@@ -1,17 +1,79 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="https://open.law/_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006">
+  <rdf:Description rdf:about="./_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-08-21</dcterms:available>
     <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="https://open.law/us/nsn/kiowa/council/resolutions/2023/adopted/KL-CY-2023-006.pdf"/>
-    <dcterms:isVersionOf rdf:resource="https://open.law/_publication/2024-08-21/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006"/>
+    <dcterms:hasFormat rdf:resource="us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006/us/nsn/kiowa/council/resolutions/2023/adopted/KL-CY-2023-006.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-08-21//us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">KL-CY-2023-006 - Resolution of the Kiowa Tribe Legislature Authorizing the Bureau of Indian Affairs Anadarko Agency and the Chairman of the Tribe to Execute Leases Where they Have Interest, for Farming and Grazing, Oil and Gas Leases, and Right-of-Way Encumbrances under the American Indian Probate Reform Act (AIPRA)</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2024-08-21/2024-01-13]: Kiowa Tribe Res. No. KL-CY-2023-006</rdfs:label>
+    <oll:codifiedDate>2024-01-13</oll:codifiedDate>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-14</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-19</oll:dateEffective>
-    <oll:isPartOfPublication rdf:resource="https://open.law/_publication/2024-08-21"/>
+    <oll:docId>Kiowa Tribe Res. No. KL-CY-2023-006</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-08-21"/>
     <oll:number>KL-CY-2023-006</oll:number>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.1">
+    <oll:cite xml:lang="en">Section 1.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|law|1.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.2">
+    <oll:cite xml:lang="en">Section 1.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|law|1.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.3">
+    <oll:cite xml:lang="en">Section 1.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|law|1.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.4">
+    <oll:cite xml:lang="en">Section 1.4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|law|1.4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.5">
+    <oll:cite xml:lang="en">Section 1.5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Kiowa Tribe Res. No. KL-CY-2023-006|law|1.5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006/_changes">
+    <rdf:_1 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006"/>
+    <rdf:_2 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law"/>
+    <rdf:_3 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.1"/>
+    <rdf:_4 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.2"/>
+    <rdf:_5 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.3"/>
+    <rdf:_6 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.4"/>
+    <rdf:_7 rdf:resource="_publication/2024-08-21/_date/2024-01-13/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.5"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

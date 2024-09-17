@@ -1,6 +1,1965 @@
 {
-  "data": [],
-  "publication_name": "2024-08-21",
+  "data": [
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": null,
+      "url": "/",
+      "lib_mpath": "kiowatribe/law-rdf|",
+      "docs_changes": {
+        "Constitution of the Kiowa Tribe": "Element added"
+      },
+      "colls_changes": {
+        "us/nsn/kiowa/council/resolutions": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "doc": "Constitution of the Kiowa Tribe",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/constitution",
+      "doc_mpath": "Constitution of the Kiowa Tribe|",
+      "lib_mpath": "kiowatribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "us/nsn/kiowa/council/resolutions",
+      "url": "/us/nsn/kiowa/council/resolutions",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|",
+      "docs_changes": {},
+      "colls_changes": {
+        "2024": "Element added",
+        "2023": "Element added",
+        "2022": "Element added",
+        "2021": "Element added",
+        "2020": "Element added",
+        "2019": "Element added",
+        "2018": "Element added",
+        "2017": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2017",
+      "url": "/us/nsn/kiowa/council/resolutions/2017",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2017-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-003": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-005": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-007": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-011": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-012": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-013": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-014": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-015": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-016": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-017": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-018": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-019": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-020": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-021": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-022": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-023": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-024": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-025": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-026": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-027": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-028": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-029": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-030": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-031": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-032": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-033": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-034": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2017-035": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-012",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-012|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-013",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-013",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-013|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-014",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-014|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-015",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-015|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-016",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-016",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-016|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-017",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-017",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-017|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-018",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-018",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-018|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-019",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-019",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-019|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-020",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-020",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-020|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-021",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-021",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-021|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-022",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-022",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-022|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-023",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-023",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-023|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-024",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-024",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-024|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-025",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-025",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-025|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-026",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-026",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-026|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-027",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-027",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-027|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-028",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-028",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-028|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-029",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-029",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-029|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-030",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-030",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-030|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-031",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-031",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-031|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-032",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-032",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-032|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-033",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-033",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-033|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-034",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-034",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-034|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2017-035",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2017/KL-CY-2017-035",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2017-035|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2017|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2018",
+      "url": "/us/nsn/kiowa/council/resolutions/2018",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2018-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-003": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-005": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-006": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-007": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-011": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-012": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-013": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-014": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-015": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-016": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-017": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-018": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-019": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-021": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-022": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2018-023": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-006",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-006|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-012",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-012|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-013",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-013",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-013|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-014",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-014|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-015",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-015|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-016",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-016",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-016|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-017",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-017",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-017|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-018",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-018",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-018|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-019",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-019",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-019|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-021",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-021",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-021|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-022",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-022",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-022|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2018-023",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2018/KL-CY-2018-023",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2018-023|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2018|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2019",
+      "url": "/us/nsn/kiowa/council/resolutions/2019",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2019-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-003": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-005": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-006": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-007": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2019-011": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-006",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-006|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2019-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2019/KL-CY-2019-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2019-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2019|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2020",
+      "url": "/us/nsn/kiowa/council/resolutions/2020",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2020-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-003(A)": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-003(B)": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-006": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-007": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2020-011": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-003(A)",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-003(A)",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-003(A)|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-003(B)",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-003(B)",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-003(B)|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-006",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-006|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2020-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2020/KL-CY-2020-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2020-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2021",
+      "url": "/us/nsn/kiowa/council/resolutions/2021",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2021-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-003": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-005": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-006": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-007": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2021-011": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-006",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-006|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2021-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2021/KL-CY-2021-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2021-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2021|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2022",
+      "url": "/us/nsn/kiowa/council/resolutions/2022",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2022-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-003": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-005": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-011": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-012": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-013": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-014": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-015": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-016": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-017": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-019": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2022-020": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-012",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-012|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-013",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-013",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-013|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-014",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-014|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-015",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-015|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-016",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-016",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-016|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-017",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-017",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-017|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-019",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-019",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-019|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2022-020",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2022/KL-CY-2022-020",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2022-020|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/kiowa/council/resolutions/2023",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2023-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-003": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-004": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-005": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-006": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-007": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-008": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-009": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-010": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-011": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-012": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-013": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-014": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2023-015": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "attachments|law",
+      "ptag": "attachment",
+      "cite": "law",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|law|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "attachments|law|1.1",
+      "ptag": "section",
+      "cite": "Section 1.1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.1",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|law|1.1|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "attachments|law|1.2",
+      "ptag": "section",
+      "cite": "Section 1.2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.2",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|law|1.2|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "attachments|law|1.3",
+      "ptag": "section",
+      "cite": "Section 1.3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.3",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|law|1.3|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "attachments|law|1.4",
+      "ptag": "section",
+      "cite": "Section 1.4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.4",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|law|1.4|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-006",
+      "path": "attachments|law|1.5",
+      "ptag": "section",
+      "cite": "Section 1.5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-006#attachments/law/1.5",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-006|law|1.5|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-012",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-012|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-013",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-013",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-013|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-014",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-014|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2023-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2023/KL-CY-2023-015",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2023-015|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2024",
+      "url": "/us/nsn/kiowa/council/resolutions/2024",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "docs_changes": {
+        "Kiowa Tribe Res. No. KL-CY-2024-001": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2024-002": "Element added",
+        "Kiowa Tribe Res. No. KL-CY-2024-003": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-001",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-001",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-001|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-002",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-002",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-002|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-08-21",
   "codified_date": "2024-01-13",
   "reasons": {
     "Kiowa Tribe Res. No. KL-CY-2024-001": [
