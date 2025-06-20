@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2025-003",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-003",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2025-003|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2025-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-004",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2025-004|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2025-005",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-005",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2025-005|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2025-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-006",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2025-006|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2025-007",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-007",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2025-007|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-06-20",
+  "codified_date": "2025-04-22",
+  "reasons": {
+    "Kiowa Tribe Res. No. KL-CY-2025-003": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2025-004": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2025-005": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2025-006": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2025-007": [
+      "effective"
+    ]
+  }
+}
