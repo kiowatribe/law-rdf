@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-008",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-008",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-008|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-009",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-009|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-010",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-010|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Kiowa Tribe Res. No. KL-CY-2024-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2024/KL-CY-2024-011",
+      "doc_mpath": "Kiowa Tribe Res. No. KL-CY-2024-011|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-06-20",
+  "codified_date": "2024-06-25",
+  "reasons": {
+    "Kiowa Tribe Res. No. KL-CY-2024-008": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2024-009": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2024-010": [
+      "effective"
+    ],
+    "Kiowa Tribe Res. No. KL-CY-2024-011": [
+      "effective"
+    ]
+  }
+}
