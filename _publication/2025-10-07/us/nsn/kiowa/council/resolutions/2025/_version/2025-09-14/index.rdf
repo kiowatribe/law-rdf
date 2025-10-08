@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.kiowatribe.org/_publication/2025-10-07/_date/2025-09-14/us/nsn/kiowa/council/resolutions/2025">
+    <dcterms:isVersionOf rdf:resource="https://law.kiowatribe.org/_publication/2025-10-07/us/nsn/kiowa/council/resolutions/2025"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2025 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-14</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.kiowatribe.org/_publication/2025-10-07/_date/2025-09-14/us/nsn/kiowa/council/resolutions/2025/_changes"/>
+    <oll:hasElements rdf:resource="https://law.kiowatribe.org/_publication/2025-10-07/_date/2025-09-14/us/nsn/kiowa/council/resolutions/2025/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.kiowatribe.org/_publication/2025-10-07"/>
+    <oll:libraryMaterializedPath xml:lang="en">kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2025</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/kiowa/council/resolutions/2025</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.kiowatribe.org/_publication/2025-10-07/_date/2025-09-14/us/nsn/kiowa/council/resolutions/2025/_changes">
+    <rdf:_1 rdf:resource="https://law.kiowatribe.org/_publication/2025-10-07/_date/2025-09-14/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-021"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.kiowatribe.org/_publication/2025-10-07/_date/2025-09-14/us/nsn/kiowa/council/resolutions/2025/_elements">
+    <rdf:_10 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-014"/>
+    <rdf:_11 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-013"/>
+    <rdf:_12 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-012"/>
+    <rdf:_13 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-011"/>
+    <rdf:_14 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-010"/>
+    <rdf:_15 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-009"/>
+    <rdf:_16 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-007"/>
+    <rdf:_17 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-006"/>
+    <rdf:_18 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-005"/>
+    <rdf:_19 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-004"/>
+    <rdf:_1 xml:lang="en">2025 Resolutions</rdf:_1>
+    <rdf:_20 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-003"/>
+    <rdf:_21 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-002"/>
+    <rdf:_22 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-001"/>
+    <rdf:_2 xml:lang="en">Effective Resolutions</rdf:_2>
+    <rdf:_3 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-021"/>
+    <rdf:_4 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-020"/>
+    <rdf:_5 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-019"/>
+    <rdf:_6 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-018"/>
+    <rdf:_7 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-017"/>
+    <rdf:_8 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-016"/>
+    <rdf:_9 rdf:resource="https://law.kiowatribe.org/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-015"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
