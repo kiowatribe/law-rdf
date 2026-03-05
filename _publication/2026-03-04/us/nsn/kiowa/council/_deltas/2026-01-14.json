@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "KL-CY-2025-029",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-029",
+      "doc_mpath": "KL-CY-2025-029|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "KL-CY-2025-030",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/kiowa/council/resolutions/2025/KL-CY-2025-030",
+      "doc_mpath": "KL-CY-2025-030|",
+      "lib_mpath": "kiowatribe/law-rdf|us/nsn/kiowa/council/resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-03-04",
+  "codified_date": "2026-01-14",
+  "reasons": {
+    "KL-CY-2025-029": [
+      "effective"
+    ],
+    "KL-CY-2025-030": [
+      "effective"
+    ]
+  }
+}
